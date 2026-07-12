@@ -27,7 +27,7 @@
 
 > [!TIP]
 > **Wesprzyj naszą sieć** - wszystkie dotacje wpłacone na 1shot2kill.pl zostają przeznaczone na rozwój forum, bądź serwerów!
-- Gdybyś był(a) chętny wesprzeć naszą sieć możesz zrobić to dobrowolnie przez naszą aplikację, którą znajdziesz na forum! [**Kliknij tutaj**](https://1shot2kill.pl/donate/)
+- Gdybyś był(a) chętny wesprzeć naszą sieć możesz zrobić to dobrowolnie przez naszą aplikację, którą znajdziesz na forum! [**Kliknij tutaj**](https://1shot2kill.pl/clients/donations)
 
 ---
 
