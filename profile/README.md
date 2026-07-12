@@ -17,7 +17,7 @@
 
 > [!NOTE]
 > **Nasze Social Media**
-- [Facebook](https://www.facebook.com/1shot2kill)
+- [Facebook](https://www.facebook.com/1s2kpl)
 - [Instagram](https://www.instagram.com/1s2k.pl/)
 - [YouTube](https://www.youtube.com/@1s2k_cs)
 - [Steam](https://steamcommunity.com/groups/1s2kpl)
